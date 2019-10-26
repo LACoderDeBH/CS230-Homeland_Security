@@ -6,3 +6,18 @@ Compute power -> EC2
 Storage -> S3
 
 https://docs.aws.amazon.com/machine-learning/latest/dg/using-amazon-s3-with-amazon-ml.html
+
+https://www.kaggle.com/c/passenger-screening-algorithm-challenge/notebooks
+
+
+
+
+
+
+
+
+
+
+
+
+
