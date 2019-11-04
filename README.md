@@ -47,6 +47,9 @@ To access your instance:
 Password: I texted it to you 
 
 
+paperswithcode
+"Detecting Zones and Threat on 3D Body for Security in Airports using Deep Machine Learning"
+https://github.com/abelguima/ryerson-capstone-CKME136
 
 
 
